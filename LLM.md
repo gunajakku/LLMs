@@ -22,4 +22,6 @@ Neural network links before starting with transformers.
 * **Hedu AI** [Visual Guide to Transformer Neural Networks - (Episode 3) Decoder’s Masked Attention](https://www.youtube.com/watch?v=gJ9kaJsE78k): Further details on the transformer architecture.
 * **Andrej Karpathy**  [Andrej Karpathy - Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY): build up a Shakespeare gpt-2-like from scratch. starts with bi-gram and adds features one by one. pytorch.
 * **Chris Olah** [CS25 I Stanford Seminar - Transformer Circuits, Induction Heads, In-Context Learning](https://www.youtube.com/watch?v=pC4zRb_5noQ): Interpretation. Deep look into the mechanics of induction heads.
-
+* **Jay Alammar** [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://www.youtube.com/watch?v=ISPId9Lhc1g)
+* **Jay Alammar** [How GPT3 Works - Easily Explained with Animations](https://www.youtube.com/watch?v=MQnJZuBGmSQ): extremely high level basic overview.
+* **Jay Alammar** [ The Narrated Transformer Language Model ](https://www.youtube.com/watch?v=-QH8fRhqFHM): much deeper look at the architecture. goes into detail.
