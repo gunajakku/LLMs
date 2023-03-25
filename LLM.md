@@ -35,7 +35,7 @@ Neural network links before starting with transformers.
 * **Sebastian Raschka** [L19: Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) Academic style lecture series on self-attention transformers
 * 🟢🕰️🙉 **Mark Chen** [Transformers in Language: The development of GPT Models including GPT3](https://www.youtube.com/watch?v=qGkzHFllWDY) A chunk of this lecture is about applying GPT to images. Same lecture series as the Chris Olah one. [Rest of the series](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM). Papers listed in the talk:
    * "GPT-1": **Liu et. al.** [Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)
-   * "GPT-2": **Radford et. al.** [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [github.com/openai/gpt-2](https://github.com/openai/gpt-2) [OpenAI: Better Language Models](https://openai.com/research/better-language-models)
+   * "GPT-2": **Radford et. al.** [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [github.com/openai/gpt-2](https://github.com/openai/gpt-2) [OpenAI: Better Language Models](https://openai.com/research/better-language-models) [Fermats Library](https://www.fermatslibrary.com/s/language-models-are-unsupervised-multitask-learners)
    * "GPT-3": **Brown et. al.** [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (I think this is it, can't find the quoted text inside this paper)
 
 # Articles
