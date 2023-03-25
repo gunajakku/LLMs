@@ -11,6 +11,15 @@ Neural network links before starting with transformers.
 * http://neuralnetworksanddeeplearning.com/
 * https://distill.pub/
 
+## Key
+
+* 🟢 = easy
+* 🟠 = medium
+* 🔴 = hard
+
+* ⏱️ = short
+* 🕰️ = long
+
 ## Youtube Lessons
 
 * **Andrej Karpathy** [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo): basic. bi-gram name generator model by counting, then by NN. using pytorch.
