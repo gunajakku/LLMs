@@ -34,10 +34,11 @@ Neural network links before starting with transformers.
 
 # Articles
 
-* **Jay Mody** [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
-* **PyTorch** [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
-* **Sasha Rush et. al.** [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-* **Jay Alammar** [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) companion video above.
+* 🟠 **Jay Mody** [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+* 🟠 **PyTorch** [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+* 🟠 **Sasha Rush et. al.** [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+* 🟢 **Jay Alammar** [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) companion video above.
+* 🔥 **Chris Olah et. al.** [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) companion video lecture above
 
 # Research Papers
 
