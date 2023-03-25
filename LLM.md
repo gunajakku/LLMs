@@ -15,6 +15,7 @@ Neural network links before starting with transformers.
 
 * 🟢 = easy, 🟠 = medium, 🔴 = hard
 * ⏱️ = short, 🕰️ = long
+* 🙉 = low quality audio
 
 ## Youtube Lessons
 
@@ -32,6 +33,7 @@ Neural network links before starting with transformers.
 * 🟢⏱️ **Jay Alammar** [How GPT3 Works - Easily Explained with Animations](https://www.youtube.com/watch?v=MQnJZuBGmSQ): extremely high level basic overview.
 * 🟢🕰️ **Jay Alammar** [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM): much deeper look at the architecture. goes into detail. [Companion article](https://jalammar.github.io/illustrated-transformer/).
 * **Sebastian Raschka** [L19: Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) Academic style lecture series on self-attention transformers
+* 🟢🕰️🙉 **Mark Chen** [Transformers in Language: The development of GPT Models including GPT3](https://www.youtube.com/watch?v=qGkzHFllWDY) A chunk of this lecture is about applying GPT to images. Same lecture series as the Chris Olah one. [Rest of the series](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 # Articles
 
@@ -41,6 +43,12 @@ Neural network links before starting with transformers.
 * 🟢 **Jay Alammar** [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) companion video above.
 * 🔥 **Chris Olah et. al.** [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) companion video lecture above
 
-# Research Papers
+# Research Paper Lists
 
 * **Sebastian Raschka** [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) This article lists some of the most important papers in the area.
+* **OpenAI** [Research Index](https://openai.com/research)
+
+# Research Papers
+
+* **Radford et. al.** [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) "GPT-1" [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
+* 
