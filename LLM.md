@@ -33,3 +33,6 @@ Neural network links before starting with transformers.
 * **PyTorch** [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
 * **Sasha Rush et. al.** [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 
+# Research Papers
+
+* **Sebastian Raschka** [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) This article lists some of the most important papers in the area.
