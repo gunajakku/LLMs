@@ -24,4 +24,12 @@ Neural network links before starting with transformers.
 * **Chris Olah** [CS25 I Stanford Seminar - Transformer Circuits, Induction Heads, In-Context Learning](https://www.youtube.com/watch?v=pC4zRb_5noQ): Interpretation. Deep look into the mechanics of induction heads. [Companion article](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 * **Jay Alammar** [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 * **Jay Alammar** [How GPT3 Works - Easily Explained with Animations](https://www.youtube.com/watch?v=MQnJZuBGmSQ): extremely high level basic overview.
-* **Jay Alammar** [ The Narrated Transformer Language Model ](https://www.youtube.com/watch?v=-QH8fRhqFHM): much deeper look at the architecture. goes into detail. [Companion article](https://jalammar.github.io/illustrated-transformer/).
+* **Jay Alammar** [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM): much deeper look at the architecture. goes into detail. [Companion article](https://jalammar.github.io/illustrated-transformer/).
+* **Sebastian Raschka** [L19: Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) Academic style lecture series on self-attention transformers
+
+# Articles
+
+* **Jay Mody** [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+* **PyTorch** [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+* **Sasha Rush et. al.** [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+
