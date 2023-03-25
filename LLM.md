@@ -1,6 +1,6 @@
 # Purpose
 
-Bootstrap knowledge of LLMs ASAP.
+Bootstrap knowledge of LLMs ASAP. With a bias/focus to GPT.
 
 ## Prelude
 
