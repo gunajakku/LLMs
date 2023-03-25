@@ -18,6 +18,7 @@ Neural network links before starting with transformers.
 
 ## Youtube Lessons
 
+* 🟢🕰️ **Łukasz Kaiser** [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) This talk is from 6 years ago.
 * 🟢🕰️ **Andrej Karpathy** [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo): basic. bi-gram name generator model by counting, then by NN. using pytorch.
 * 🟢🕰️ **Andrej Karpathy**  [Building makemore Part 2: MLP](https://www.youtube.com/watch?v=TCH_1BHY58I): 
 * 🕰️ **Andrej Karpathy**  [Building makemore Part 3: Activations & Gradients, BatchNorm](https://www.youtube.com/watch?v=P6sfmUTpUmc)): 
