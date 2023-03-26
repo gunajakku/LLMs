@@ -54,3 +54,10 @@ Neural network links before starting with transformers.
 
 * **Radford et. al.** [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) a page accompanying this paper on the OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
 * 
+
+# Philosophy of GPT
+
+* **Isaac Asimov** [The Last Question (1956)](http://users.ece.cmu.edu/~gamvrosi/thelastq.html)
+* **Justin Weinberg, Daily Nous** [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
+* **Fernando Borretti** [And Yet It Understands](https://borretti.me/article/and-yet-it-understands)
+
