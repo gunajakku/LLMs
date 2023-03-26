@@ -2,6 +2,8 @@
 
 Bootstrap knowledge of LLMs ASAP. With a bias/focus to GPT.
 
+Avoid being a link dump. Try to provide only valuable well tuned information.
+
 ## Prelude
 
 Neural network links before starting with transformers.
