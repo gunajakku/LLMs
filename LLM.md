@@ -54,8 +54,7 @@ Neural network links before starting with transformers.
 
 # Research Papers
 
-* **Radford et. al.** [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) a page accompanying this paper on the OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
-* 
+* **Radford et. al.** [Improving Language Understanding by Generative Pre-Training (2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) a page accompanying this paper on the OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
 
 # Philosophy of GPT
 
