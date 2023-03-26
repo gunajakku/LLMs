@@ -62,3 +62,4 @@ Neural network links before starting with transformers.
 * **Justin Weinberg, Daily Nous** [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * **Fernando Borretti** [And Yet It Understands](https://borretti.me/article/and-yet-it-understands)
 
+*This page is not finished yet. I will continue adding to this.*
