@@ -55,6 +55,8 @@ Neural network links before starting with transformers.
 # Research Papers
 
 * **Radford et. al.** [Improving Language Understanding by Generative Pre-Training (2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) a page accompanying this paper on the OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
+* **Kaplan et. al.** [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) A variety of models were trained using varying amounts of compute, data set size, and number of parameters. This enables us to predict what parameters will work well in larger future models.
+* **Gwern Branwen** [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
 
 # Philosophy of GPT
 
