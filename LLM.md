@@ -61,5 +61,7 @@ Neural network links before starting with transformers.
 * **Isaac Asimov** [The Last Question (1956)](http://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 * **Justin Weinberg, Daily Nous** [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * **Fernando Borretti** [And Yet It Understands](https://borretti.me/article/and-yet-it-understands)
+* **Ted Chiang** [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+* **Noam Chomsky** [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
 *This page is not finished yet. I will continue adding to this.*
