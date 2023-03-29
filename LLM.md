@@ -65,4 +65,8 @@ Neural network links before starting with transformers.
 * **Ted Chiang** [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 * **Noam Chomsky** [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
+# GPT/LLM Link Collections
+
+* https://github.com/sw-yx/ai-notes/tree/main
+
 *This page is not finished yet. I will continue adding to this.*
