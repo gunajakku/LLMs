@@ -65,7 +65,7 @@ Neural network links before starting with transformers.
 * **Fernando Borretti** [And Yet It Understands](https://borretti.me/article/and-yet-it-understands)
 * **Ted Chiang** [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 * **Noam Chomsky** [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
-* **Janus** [Simulators](https://generative.ink/posts/simulators/) This is a long post but the main point you can take from it is that LLMs act as simulators that can create many different personas to generate text.
+* **Janus** [Simulators](https://generative.ink/posts/simulators/) This is a long post but the main point you can take from it is that LLMs act as simulators that can create many different personas to generate text. Related, easier to read and understand [Janis' Simulators](https://astralcodexten.substack.com/p/janus-simulators)
 
 # GPT/LLM Link Collections
 
