@@ -11,7 +11,6 @@ Neural network links before starting with transformers.
 * https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 * https://www.3blue1brown.com/topics/neural-networks
 * http://neuralnetworksanddeeplearning.com/
-* https://distill.pub/
 
 ## Key
 
