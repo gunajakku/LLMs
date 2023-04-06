@@ -69,6 +69,7 @@ Neural network links before starting with transformers.
 
 # GPT/LLM Link Collections
 
-* https://github.com/sw-yx/ai-notes/tree/main
+* https://github.com/sw-yx/ai-notes/tree/main - lots of articles and podcasts
+* https://github.com/giuven95/chatgpt-failures - large list of examples of things it gets/got wrong
 
 *This page is not finished yet. I will continue adding to this.*
