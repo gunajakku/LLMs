@@ -47,6 +47,7 @@ Neural network links before starting with transformers.
 * 🟢 **Jay Alammar** [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) companion video above.
 * 🔥 **Chris Olah et. al.** [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) companion video lecture above
 * 🟢 **Finbarr Timbers** [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
+* 🟠 **Sebastian Raschka** [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 
 # Research Paper Lists
 
