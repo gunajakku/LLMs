@@ -73,4 +73,11 @@ Neural network links before starting with transformers.
 * https://github.com/sw-yx/ai-notes/tree/main - lots of articles and podcasts
 * https://github.com/giuven95/chatgpt-failures - large list of examples of things it gets/got wrong
 
+# Random fun/interesting Applications
+
+* https://github.com/pgosar/ChatGDB - GDB debugger commands using natural language
+* https://github.com/TheR1D/shell_gpt - type things like "list files" instead of "ls"
+* https://www.chatpdf.com/ - Upload a PDF and discuss it.
+* https://ggpt.43z.one/ - prompt injection golfing game
+
 *This page is not finished yet. I will continue adding to this.*
