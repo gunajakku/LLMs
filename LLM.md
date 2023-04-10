@@ -75,6 +75,7 @@ Neural network links before starting with transformers.
 
 # Random fun/interesting Applications
 
+* https://github.com/PrefectHQ/marvin - implement entire python functions just by describing them in a comment
 * https://github.com/pgosar/ChatGDB - GDB debugger commands using natural language
 * https://github.com/TheR1D/shell_gpt - type things like "list files" instead of "ls"
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
