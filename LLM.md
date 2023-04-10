@@ -79,6 +79,7 @@ Neural network links before starting with transformers.
 * https://github.com/PrefectHQ/marvin - implement entire python functions just by describing them in a comment
 * https://github.com/pgosar/ChatGDB - GDB debugger commands using natural language
 * https://github.com/TheR1D/shell_gpt - type things like "list files" instead of "ls"
+* https://github.com/RomanHotsiy/commitgpt - create git commit messages
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
 * https://ggpt.43z.one/ - prompt injection golfing game
 
