@@ -84,4 +84,9 @@ Neural network links before starting with transformers.
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
 * https://ggpt.43z.one/ - prompt injection golfing game
 
+## ConLang stuff
+
+* **Dylan Black** [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) Gloop splog slopa slurpi
+* **Ryszard Szopa** [Teaching ChatGPT to Speak my Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05) hingadaa’ng’khuu’ngkilja’khłattama’khattama
+
 *This page is not finished yet. I will continue adding to this.*
