@@ -69,6 +69,10 @@ Neural network links before starting with transformers.
 * **Janus** [Simulators](https://generative.ink/posts/simulators/) This is a long post but the main point you can take from it is that LLMs act as simulators that can create many different personas to generate text. Related, easier to read and understand [Janus' Simulators](https://astralcodexten.substack.com/p/janus-simulators)
 * **Julian Togelius** [http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html) Satire. This leads into a critique of the concept of intelligence.
 
+# Usage
+
+* **Chip Huyen** [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) How to get good results from actually using an LLM.
+
 # GPT/LLM Link Collections
 
 * https://github.com/sw-yx/ai-notes/tree/main - lots of articles and podcasts
