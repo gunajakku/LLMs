@@ -87,6 +87,7 @@ Neural network links before starting with transformers.
 * https://github.com/densmirnov/git2gpt/commits/main - create git commits from repo + prompts, mutating a codebase over time
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
 * https://ggpt.43z.one/ - prompt injection golfing game
+* https://www.debate-devil.com/en - devils advocate debate game
 
 ## ConLang stuff
 
