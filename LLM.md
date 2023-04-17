@@ -48,6 +48,7 @@ Neural network links before starting with transformers.
 * 🔥 **Chris Olah et. al.** [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) companion video lecture above
 * 🟢 **Finbarr Timbers** [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * 🟠 **Sebastian Raschka** [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
+* **Sebastian Raschka** [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) Another jumping off point for learning LLMs from, very good.
 
 # Research Paper Lists
 
