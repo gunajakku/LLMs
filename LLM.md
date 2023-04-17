@@ -53,9 +53,8 @@ Neural network links before starting with transformers.
 
 # Research Paper Lists
 
-* **Sebastian Raschka** [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) This article lists some of the most important papers in the area.
+* **Sebastian Raschka** [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) This article lists some of the most important papers in the area. This is a really good chronological list of papers.
 * **OpenAI** [Research Index](https://openai.com/research)
-* **Sebastian Raschka** [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) This is a really good chronological list of papers.
 
 # Research Papers
 
