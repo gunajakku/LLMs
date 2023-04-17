@@ -61,7 +61,7 @@ Neural network links before starting with transformers.
 
 * 1️⃣ **Radford et. al.** [Improving Language Understanding by Generative Pre-Training (2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) (GPT-1) a page accompanying this paper on the OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
 * 2️⃣ **Radford et. al.** [Language Models are Unsupervised Multitask Learners (2019)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (GPT-2) accompanying OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/better-language-models)
-* 3️⃣4️**Brown et. al.** [Language Models are Few-Shot Learners](https://openai.com/research/language-models-are-few-shot-learners)
+* 3️⃣ **Brown et. al.** [Language Models are Few-Shot Learners](https://openai.com/research/language-models-are-few-shot-learners)
 * **Kaplan et. al.** [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) A variety of models were trained using varying amounts of compute, data set size, and number of parameters. This enables us to predict what parameters will work well in larger future models. See also **Gwern Branwen** [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
 
 # Philosophy of GPT
