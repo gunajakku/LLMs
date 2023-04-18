@@ -62,6 +62,7 @@ Neural network links before starting with transformers.
 * 2️⃣ (GPT-2) **Radford et. al.** [Language Models are Unsupervised Multitask Learners (2019)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) accompanying OpenAI blog [Improving language understanding with unsupervised learning](https://openai.com/research/better-language-models). Source code here: [github.com/openai/gpt-2](https://github.com/openai/gpt-2)
 * 3️⃣ (GPT-3) **Brown et. al.** [Language Models are Few-Shot Learners](https://openai.com/research/language-models-are-few-shot-learners)
 * **Kaplan et. al.** [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) A variety of models were trained using varying amounts of compute, data set size, and number of parameters. This enables us to predict what parameters will work well in larger future models. See also **Gwern Branwen** [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
+* **Mary Phuong et. al.** [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238) This paper gives pseudocode for various versions of the transformer (with array indexes starting at 1 for some reason). Very useful reference to have.
 
 # Philosophy of GPT
 
