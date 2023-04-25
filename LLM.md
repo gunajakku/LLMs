@@ -93,7 +93,8 @@ Neural network links before starting with transformers.
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
 * https://ggpt.43z.one/ - prompt injection golfing game
 * https://www.debate-devil.com/en - devils advocate debate game
-
+* https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/ - cheating at a CTF
+ 
 ## ConLang stuff
 
 * **Dylan Black** [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) Gloop splog slopa slurpi
