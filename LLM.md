@@ -75,6 +75,7 @@ Neural network links before starting with transformers.
 * **Noam Chomsky** [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 * **Janus** [Simulators](https://generative.ink/posts/simulators/) This is a long post but the main point you can take from it is that LLMs act as simulators that can create many different personas to generate text. Related, easier to read and understand [Janus' Simulators](https://astralcodexten.substack.com/p/janus-simulators)
 * **Julian Togelius** [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html) Satire. This leads into a critique of the concept of intelligence.
+* **Josh Whiton** [From AI to A-Psy](https://joshwhiton.substack.com/p/from-ai-to-a-psy) About Bing Sydney's reaction to prompt injection.
 
 # Usage
 
