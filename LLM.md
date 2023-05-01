@@ -41,6 +41,7 @@ Neural network links before starting with transformers.
 
 # Articles
 
+* 🟢 **Viktor Garske** [Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/) family tree
 * 🟢 **Jakob Uszkoreit** [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) Google introduces the transformer model in a simple easy to understand blog post. This is in the context of translation.
 * 🟠 **Jay Mody** [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 * 🟠 **PyTorch** [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
