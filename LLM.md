@@ -95,13 +95,21 @@ Neural network links before starting with transformers.
 * https://github.com/RomanHotsiy/commitgpt - create git commit messages
 * https://github.com/densmirnov/git2gpt/commits/main - create git commits from repo + prompts, mutating a codebase over time
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
-* https://ggpt.43z.one/ - prompt injection golfing game
 * https://www.debate-devil.com/en - devils advocate debate game
 * https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/ - cheating at a CTF
+* https://ggpt.43z.one/ - prompt injection golfing game
+* https://gandalf.lakera.ai/ - another prompt injection game
  
-## ConLang stuff
+## ConLang + Ancient scripts stuff
 
 * **Dylan Black** [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) Gloop splog slopa slurpi
 * **Ryszard Szopa** [Teaching ChatGPT to Speak my Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05) hingadaa’ng’khuu’ngkilja’khłattama’khattama
+* https://medium.com/syncedreview/ai-deciphers-persian-cuneiform-tablets-from-25-centuries-ago-afc69af3f244
+
+# Controlling output
+
+* https://www.reddit.com/r/LocalLLaMA/comments/13j3747/tutorial_a_simple_way_to_get_rid_of_as_an_ai/
+* https://matt-rickard.com/rellm + https://matt-rickard.com/context-free-grammar-parsing-with-llms
+* https://github.com/microsoft/guidance
 
 *This page is not finished yet. I will continue adding to this.*
