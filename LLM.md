@@ -97,6 +97,7 @@ Neural network links before starting with transformers.
 * https://www.chatpdf.com/ - Upload a PDF and discuss it.
 * https://www.debate-devil.com/en - devils advocate debate game
 * https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/ - cheating at a CTF
+* https://www.thisworddoesnotexist.com/ - makes up words
 * https://ggpt.43z.one/ - prompt injection golfing game
 * https://gandalf.lakera.ai/ - another prompt injection game
  
