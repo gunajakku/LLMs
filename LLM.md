@@ -113,4 +113,11 @@ Neural network links before starting with transformers.
 * https://matt-rickard.com/rellm + https://matt-rickard.com/context-free-grammar-parsing-with-llms
 * https://github.com/microsoft/guidance
 
+# (Local) Model Comparisons and Rankings
+
+*If you are wondering which models are best, especially for comparing local models*
+
+* https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+* https://leaderboard.lmsys.org/
+
 *This page is not finished yet. I will continue adding to this.*
