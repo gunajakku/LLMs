@@ -54,6 +54,7 @@ Neural network links before starting with transformers.
 * 🟢 **Finbarr Timbers** [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * 🟠 **Sebastian Raschka** [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 * 🟢 **Jason Wei** [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence) - Includes a good list of advanced prompting strategies.
+* 🟢 **Jay Alammar and Cohere** [LLM University](https://docs.cohere.com/docs/llmu)
 
 # Research Paper Lists
 
