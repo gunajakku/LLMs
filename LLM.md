@@ -24,6 +24,7 @@ Neural network links before starting with transformers.
 * 🟢🕰️ **Andrej Karpathy**  [Building makemore Part 2: MLP](https://www.youtube.com/watch?v=TCH_1BHY58I): 
 * 🕰️ **Andrej Karpathy**  [Building makemore Part 3: Activations & Gradients, BatchNorm](https://www.youtube.com/watch?v=P6sfmUTpUmc)): 
 * 🕰️ **Andrej Karpathy**  [Building makemore Part 4: Becoming a Backprop Ninja](https://www.youtube.com/watch?v=q8SA3rM6ckI): 
+* 🟢 **Andrej Karpathy** [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 * 🟢 **Hedu AI** [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://www.youtube.com/watch?v=dichIcUZfOw): Tokens are embedded into a semantic space. sine/cosine position encoding explained very well.
 * 🟢 **Hedu AI** [Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention](https://www.youtube.com/watch?v=mMa2PmYJlCo): Clear overview of multi-head attention.
 * 🟢 **Hedu AI** [Visual Guide to Transformer Neural Networks - (Episode 3) Decoder’s Masked Attention](https://www.youtube.com/watch?v=gJ9kaJsE78k): Further details on the transformer architecture.
