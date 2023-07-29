@@ -55,6 +55,8 @@ Neural network links before starting with transformers.
 * 🟠 **Sebastian Raschka** [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 * 🟢 **Jason Wei** [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence) - Includes a good list of advanced prompting strategies.
 * 🟢 **Jay Alammar and Cohere** [LLM University](https://docs.cohere.com/docs/llmu)
+* **Jean Nyandwi** [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture
+](https://deeprevision.github.io/posts/001-transformer/)
 
 # Research Paper Lists
 
