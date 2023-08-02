@@ -117,6 +117,12 @@ Neural network links before starting with transformers.
 * https://matt-rickard.com/rellm + https://matt-rickard.com/context-free-grammar-parsing-with-llms
 * https://github.com/microsoft/guidance
 
+# Prompt Injection
+
+* **Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection** https://arxiv.org/abs/2302.12173
+* https://llm-attacks.org/
+* https://poison-llm.github.io/
+
 # (Local) Model Comparisons and Rankings
 
 *If you are wondering which models are best, especially for comparing local models*
