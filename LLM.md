@@ -57,6 +57,8 @@ Neural network links before starting with transformers.
 * 🟢 **Jay Alammar and Cohere** [LLM University](https://docs.cohere.com/docs/llmu)
 * **Jean Nyandwi** [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture
 ](https://deeprevision.github.io/posts/001-transformer/)
+* 🔥 **Eugene Yan** [Patterns for Building LLM-based Systems & Products
+](https://eugeneyan.com/writing/llm-patterns/) Very in-depth article on practical engineering concepts that will be useful to build software that uses an LLM as a component.
 
 # Research Paper Lists
 
