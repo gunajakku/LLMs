@@ -107,7 +107,8 @@ Neural network links before starting with transformers.
 * https://www.thisworddoesnotexist.com/ - makes up words
 * https://ggpt.43z.one/ - prompt injection golfing game
 * https://gandalf.lakera.ai/ - another prompt injection game
- 
+* https://github.com/AdmTal/chat-gpt-games - conversations that are games!
+
 ## ConLang + Ancient scripts stuff
 
 * **Dylan Black** [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language) Gloop splog slopa slurpi
