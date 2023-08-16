@@ -59,6 +59,7 @@ Neural network links before starting with transformers.
 ](https://deeprevision.github.io/posts/001-transformer/)
 * 🔥 **Eugene Yan** [Patterns for Building LLM-based Systems & Products
 ](https://eugeneyan.com/writing/llm-patterns/) Very in-depth article on practical engineering concepts that will be useful to build software that uses an LLM as a component.
+* 🟠 **Finbarr Timbers** [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/) - Excellent technical overview of LLMs from GPT onwards.
 
 # Research Paper Lists
 
